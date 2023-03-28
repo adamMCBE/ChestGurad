@@ -1,0 +1,5 @@
+name: ChestGuard
+main: ryun42680\chestguard\ChestGuard
+author: ryun42680
+version: 0.0.1
+api: [ 5.0.0 ]
